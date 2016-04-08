@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.Scanner;
 
+/**
+ * This is the solution of problem http://acm.acmcoder.com/showproblem.php?pid=2001 
+ * @author AlanP
+ *
+ */
+
 public class Main {
     public static void main(String[] args){
         int i=0;
